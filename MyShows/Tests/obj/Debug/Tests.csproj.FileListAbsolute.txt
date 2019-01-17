@@ -1,12 +1,10 @@
 D:\study\MyShows\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
 D:\study\MyShows\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
 D:\study\MyShows\Tests\bin\Debug\Tests.pdb
-D:\study\MyShows\Tests\bin\Debug\MyShows.exe
 D:\study\MyShows\Tests\bin\Debug\nunit.framework.dll
 D:\study\MyShows\Tests\bin\Debug\WebDriver.dll
 D:\study\MyShows\Tests\bin\Debug\WebDriver.Support.dll
 D:\study\MyShows\Tests\bin\Debug\MyShows.pdb
-D:\study\MyShows\Tests\bin\Debug\MyShows.exe.config
 D:\study\MyShows\Tests\bin\Debug\nunit.framework.pdb
 D:\study\MyShows\Tests\bin\Debug\nunit.framework.xml
 D:\study\MyShows\Tests\bin\Debug\WebDriver.xml
@@ -22,3 +20,5 @@ D:\study\MyShows\Tests\bin\Debug\YamlDotNet.xml
 D:\study\MyShows\Tests\bin\Debug\Tests.dll.config
 D:\study\MyShows\Tests\bin\Debug\Tests.dll
 D:\study\MyShows\Tests\obj\Debug\Tests.dll
+D:\study\MyShows\Tests\bin\Debug\MyShows.dll
+D:\study\MyShows\Tests\bin\Debug\MyShows.dll.config

@@ -1,0 +1,7 @@
+D:\study\MyShows\Runner\bin\Debug\Runner.pdb
+D:\study\MyShows\Runner\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+D:\study\MyShows\Runner\obj\Debug\Runner.pdb
+D:\study\MyShows\Runner\obj\Debug\Runner.csprojAssemblyReference.cache
+D:\study\MyShows\Runner\bin\Debug\Runner.exe.config
+D:\study\MyShows\Runner\bin\Debug\Runner.exe
+D:\study\MyShows\Runner\obj\Debug\Runner.exe
