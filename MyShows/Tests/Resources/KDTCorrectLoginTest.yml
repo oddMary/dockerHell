@@ -1,0 +1,13 @@
+﻿action:
+  - name: "navigate"
+    value: "https://myshows.me"
+  - name: "openModal"
+    value: ""
+  - name: "setLogin"
+    value: "deadbyapril"
+  - name: "setPass"
+    value: "belka123"
+  - name: "submit"
+    value: ""
+  - name: "assert"
+    value: "Deadbyapril"

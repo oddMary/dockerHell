@@ -1,0 +1,17 @@
+D:\study\MyShows\MyShows\obj\Debug\Framework.csprojAssemblyReference.cache
+D:\study\MyShows\MyShows\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+D:\study\MyShows\MyShows\bin\Debug\MyShows.exe.config
+D:\study\MyShows\MyShows\bin\Debug\MyShows.exe
+D:\study\MyShows\MyShows\bin\Debug\MyShows.pdb
+D:\study\MyShows\MyShows\bin\Debug\WebDriver.dll
+D:\study\MyShows\MyShows\bin\Debug\WebDriver.Support.dll
+D:\study\MyShows\MyShows\bin\Debug\WebDriver.xml
+D:\study\MyShows\MyShows\bin\Debug\WebDriver.Support.xml
+D:\study\MyShows\MyShows\obj\Debug\Framework.csproj.CopyComplete
+D:\study\MyShows\MyShows\obj\Debug\MyShows.exe
+D:\study\MyShows\MyShows\obj\Debug\MyShows.pdb
+D:\study\MyShows\MyShows\bin\Debug\nunit.framework.dll
+D:\study\MyShows\MyShows\bin\Debug\nunit.framework.pdb
+D:\study\MyShows\MyShows\bin\Debug\nunit.framework.xml
+D:\study\MyShows\MyShows\bin\Debug\YamlDotNet.dll
+D:\study\MyShows\MyShows\bin\Debug\YamlDotNet.xml
